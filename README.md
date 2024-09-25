@@ -1,1 +1,1 @@
-# HELLO, I'AM KAIO.
+# Hello, i'm KAIO.
