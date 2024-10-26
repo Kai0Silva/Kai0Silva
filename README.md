@@ -1,18 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073e6&height=120&section=header"/>
 
-## Welcome to my GitHub!
+# Welcome to my GitHub!
 My name is:
 
 ![I'm Kai0Silva](https://img.shields.io/badge/_Kai0Silva-0073e6?style=for-the-badge&logo=github&logoColor=white)
 
-# About me:
-## 📚 Learning: 
-I'm looking for new knowledge in the area of ​​programming.
-
-## 💻 Development: 
-I'm interested in learning how to develop websites. 
-
-## 📈 My stats:
+# 📈 My stats:
 ## Stats from my GitHub:
 
 ![](https://komarev.com/ghpvc/?username=Kai0Silva)
