@@ -30,7 +30,7 @@ My name is:
 # Contact:
 You can find me at E-mail:
 
-![Email](https://img.shields.io/badge/Email:-Kaio.gabriel4567@gmail.com-blue?style=for-the-badge&logo=mail&logoColor=white)
+[![E-MAIL Badge](https://img.shields.io/badge/E-Mail-Kaio.gabriel4567@gmail.com-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black)](https://email.com)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@Kaiozinhoo0-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black)](https://x.com/Kaiozinhoo0)
 
