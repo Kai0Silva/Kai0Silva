@@ -15,6 +15,8 @@ I'm interested in learning how to develop websites. 
 ## 📈 My stats:
 ## Stats from my GitHub:
 
+![](https://komarev.com/ghpvc/?username=Kai0Silva)
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kai0Silva&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai0Silva&layout=compact&theme=radical&cache_seconds=1)
