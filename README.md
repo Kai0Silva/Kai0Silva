@@ -3,7 +3,7 @@
 # Welcome to my GitHub!
 My name is:
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-@Kai0Silvaa-black?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black)] (https://github.com/Kai0Silva)
+[![GitHub Badge](https://img.shields.io/badge/-@Kai0Silvaa-black?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black)] (https://github.com/Kai0Silva)
 
 # 📈 My stats:
 ## Stats from my GitHub:
