@@ -32,6 +32,6 @@ You can find me at E-mail:
 
 ![Email](https://img.shields.io/badge/Email:-Kaio.gabriel4567@gmail.com-blue?style=for-the-badge&logo=mail&logoColor=white)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter:-@Kaiozinhoo0-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Kaiozinhoo0)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-@Kaiozinhoo0-black?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/Kaiozinhoo0)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073e6&height=120&section=footer"/>
