@@ -34,6 +34,6 @@ You can find me at E-mail:
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@Kaiozinhoo0-black?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://x.com/Kaiozinhoo0)
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-@eu.kaiosilvaa-23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=23E4405F)](https://www.instagram.com/eu.kaiosilvaa/profilecard/?igsh=NTd3eGp4aHhxb3Vh)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-@eu.kaiosilvaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/eu.kaiosilvaa/profilecard/?igsh=NTd3eGp4aHhxb3Vh)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073e6&height=120&section=footer"/>
