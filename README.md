@@ -27,8 +27,7 @@ My name is:
 ![Windows](https://img.shields.io/badge/Windows-4285F4?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=#458636)&nbsp;
 
-# Contact:
-You can find me at E-mail:
+# Contacts:
 
 [![Email Badge](https://img.shields.io/badge/Email-Kaio.gabriel4567@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=blue)](mailto:Kaio.gabriel4567@gmail.com)
 
