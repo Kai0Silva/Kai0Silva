@@ -25,7 +25,7 @@ My name is:
 ## Workstation Tools:
 ![VScode](https://img.shields.io/badge/VSCODE-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-4285F4?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Android](https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=#458636)&nbsp;
+![Android](https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=458636)&nbsp;
 
 # Contacts:
 
