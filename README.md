@@ -1,38 +1,74 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073e6&height=120&section=header"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0056b3&height=180&section=header&text=Kaio%20Silva&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-# Welcome to my GitHub!
-My name is:
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Kai0Silva&color=0056b3&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
+  </p>
 
-[![GitHub Badge](https://img.shields.io/badge/@Kai0Silvaa-black?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black)](https://github.com/Kai0Silva)
+  <p align="center">
+    <a href="https://github.com/Kai0Silva">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="mailto:seu-email@exemplo.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </p>
+</div>
 
-# 📈 My stats:
-## Stats from my GitHub:
+---
 
-![](https://komarev.com/ghpvc/?username=Kai0Silva)
+### 🛠️ Technical Stack
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kai0Silva&show_icons=true&theme=radical)
+**Programming Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
+</p>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai0Silva&layout=compact&theme=radical&cache_seconds=1)
+**Frontend & Design**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-## I am studying:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-C71585?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)&nbsp;
+**Tools & Environment**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+</p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+---
 
-## Workstation Tools:
-![VScode](https://img.shields.io/badge/VSCODE-4285F4?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-4285F4?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Android](https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=458636)&nbsp;
+### 📊 Performance Analytics
 
-# Contacts:
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Kai0Silva&show_icons=true&theme=dracula&hide_border=true&title_color=00aaff&icon_color=00aaff&text_color=ffffff" alt="Stats" height="170px" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kai0Silva&layout=compact&theme=dracula&hide_border=true&title_color=00aaff&icon_color=00aaff&text_color=ffffff" alt="Langs" height="170px" />
+      </td>
+    </tr>
+  </table>
+  
+  <br />
 
-[![Email Badge](https://img.shields.io/badge/Email-Kaio.gabriel4567@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=blue)](mailto:Kaio.gabriel4567@gmail.com)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kai0Silva&theme=dracula&hide_border=true&stroke=00aaff&ring=00aaff&fire=00aaff" alt="Streak" width="95%" />
+</div>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-@Kaiozinhoo0-black?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://x.com/Kaiozinhoo0)
+---
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-@eu.kaiosilvaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/eu.kaiosilvaa/profilecard/?igsh=NTd3eGp4aHhxb3Vh)
+### ⚡ Contribution Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="90%" />
+</div>
+
+<p align="right">
+  <i>Última atualização: Fevereiro 2026</i>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073e6&height=120&section=footer"/>
