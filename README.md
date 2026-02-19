@@ -24,7 +24,4 @@ My name is:
 ![C++](https://img.shields.io/badge/C++-C71585?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)&nbsp;
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kai0Silva/Kai0Silva/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0073e6&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/Kai0Silva/Kai0Silva/output/github-contribution-grid-snake.svg?v=2" width="100%" />
